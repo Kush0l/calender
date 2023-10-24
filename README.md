@@ -23,7 +23,7 @@ In this project when the user Inputs their desired year they will get the Calend
 
 
 ## CONCLUSION
- 	A calendar is convenient for regulating civil life and religious observances and for historical and scientific purposes. calendar, any system for dividing time over extended periods, such as days, months, or years, and arranging such divisions in a definite order. Calendars are also used to help people manage their personal schedules, time, and activities, particularly when individuals have numerous work, school, and family commitments. People frequently use multiple systems and may keep both a business and family calendar to help prevent them from overcommitting their time.
+A calendar is convenient for regulating civil life and religious observances and for historical and scientific purposes. calendar, any system for dividing time over extended periods, such as days, months, or years, and arranging such divisions in a definite order. Calendars are also used to help people manage their personal schedules, time, and activities, particularly when individuals have numerous work, school, and family commitments. People frequently use multiple systems and may keep both a business and family calendar to help prevent them from overcommitting their time.
 
 
 
